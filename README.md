@@ -95,4 +95,4 @@ The system has processed 42 test images with results logged in `chain_record.jso
 - Blockchain difficulty can be adjusted in `blockchain.py` for performance tuning
 
 ## Author
-Research project for counterfeit detection internship application
+Mohib Rasool
